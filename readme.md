@@ -7,3 +7,6 @@ lan
 ## about us
 {LAN}_test repository.
 {BAITEOY}_test repository.
+
+## fun sentence 
+hello !
