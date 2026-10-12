@@ -3,3 +3,7 @@ napawan
 lan
 
 123
+
+## about us
+{LAN}_test repository.
+{BAITEOY}_test repository.
